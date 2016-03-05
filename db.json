@@ -1,0 +1,93 @@
+{
+  "manifestacoes": [
+    {
+      "categoriaId": 1,
+      "subcategoriaId": 1,
+      "titulo": "Desvio de verba",
+      "consideracao": "Vi uma pessoa que trabalha no Orgão X emitindo notas frias",
+      "latitude": 12.0009,
+      "longitude": 12.0009
+    },
+    {
+      "categoriaId": 1,
+      "subcategoriaId": 1,
+      "titulo": "Desvio de verba",
+      "consideracao": "Vi uma pessoa que trabalha no Orgão X emitindo notas frias",
+      "latitude": 12.0009,
+      "longitude": 12.0009,
+      "id": "b2a631ba-af5c-4513-882b-beda3105b0c8"
+    },
+    {
+      "titulo": "",
+      "date": null,
+      "categoria": "Obras",
+      "subcategoria": "null",
+      "qtdEvidencias": null,
+      "consideracao": null,
+      "desdobramentosId": null,
+      "latitude": null,
+      "longitude": null,
+      "id": "ext-record-3"
+    },
+    {
+      "titulo": "Rola,Bla,BLa",
+      "date": null,
+      "categoria": "Obras",
+      "subcategoria": 2,
+      "qtdEvidencias": null,
+      "consideracao": null,
+      "desdobramentosId": null,
+      "latitude": null,
+      "longitude": null,
+      "id": "ext-record-4"
+    },
+    {
+      "titulo": "",
+      "date": null,
+      "categoria": "Obras",
+      "subcategoria": "null",
+      "qtdEvidencias": null,
+      "consideracao": null,
+      "desdobramentosId": null,
+      "latitude": null,
+      "longitude": null,
+      "id": "ext-record-5"
+    },
+    {
+      "titulo": "ahsddasjhdajkshdjkashdlkjahsdlkjhasldkjhasldkjahs",
+      "date": null,
+      "categoria": "Obras",
+      "subcategoria": 3,
+      "qtdEvidencias": null,
+      "consideracao": null,
+      "desdobramentosId": null,
+      "latitude": null,
+      "longitude": null,
+      "id": "ext-record-6"
+    },
+    {
+      "titulo": "",
+      "date": null,
+      "categoria": "Obras",
+      "subcategoria": "null",
+      "qtdEvidencias": null,
+      "consideracao": null,
+      "desdobramentosId": null,
+      "latitude": null,
+      "longitude": null,
+      "id": "ext-record-7"
+    },
+    {
+      "titulo": "",
+      "date": null,
+      "categoria": "Obras",
+      "subcategoria": "null",
+      "qtdEvidencias": null,
+      "consideracao": null,
+      "desdobramentosId": null,
+      "latitude": null,
+      "longitude": null,
+      "id": "ext-record-9"
+    }
+  ]
+}
